@@ -26,3 +26,15 @@ console.log(newboolAge);
 
 //You get the Idea if you want to convert from one to another data type we can use the name of the datatype first letter capital and in parenth
 // eses the variable name like Number(variable_name);
+
+/* **************************Operations ***************** */
+console.log(1+1);
+console.log(1-1);
+console.log(1*1);
+console.log(1/2);
+console.log(2**3);
+console.log(2%3)
+
+console.log("1" + 2);
+console.log("1" + 2 + 3);
+console.log(1 +2 + "3");
