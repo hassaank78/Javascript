@@ -21,5 +21,5 @@ console.log(fullName);
 // console.log(fullName.endsWith("Khan"));
 // 5. includes() => returns true or flase if the string includes the specified word (case-sensitive)!!
 // console.log(`The string $fullName containes Khan => ${fullName.includes("Khan")}`);
-// 6. indexof() => returns index of the particular word
-console.log(fullName.indexOf("K"));
+// 6. indexof() => returns index of the particular word(case-insensitive) or character(case-sensitive)
+// console.log(fullName.indexOf("K"));
