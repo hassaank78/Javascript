@@ -67,3 +67,8 @@ function arrayFunction(getArray){
   console.log(getArray[1]);
 }
 arrayFunction(myArr);
+
+//that's too much I think now we will talk about scope in functions(I think I have idea)
+//from future I know what is scope
+// and one more thing is hoisting which happens to javascript variables in which the variable declaration is moved to top and if you use that 
+//variable before the line on which it has been declared it will not throw error it will say undefined i think
