@@ -1,3 +1,9 @@
+
+
+
+
+
+
 //Some times you will want a function to be invoked as soon as the application starts for that in js we have immediately invoked function
 //also know as iife(e-fee)
 //syntax: both for normal and arrow is same but if you are using 2 iife in the same file then you need to end the first iife by semicolon so

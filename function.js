@@ -16,7 +16,7 @@ console.log(output);
 
 //that is because we are consoling the output which means it won't be stored in the variable to store it into the variable we need to use return (property I think);
 //let's copy the same function and comment that so we can use it with the return (property or what I don't know), Well I just chatgpt'd it and it says it is a keyword
-// which is used to write a stateement, you'll see
+// which is us1ed to write a stateement, you'll see
 
 function myNewFunction(number1, number2) {
   return number1 + number2;
